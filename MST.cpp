@@ -3,6 +3,10 @@
 //Created:                      09/07/2017
 //Source File:                  Heap.h
 //Description:
+//  Main file for the Min Span Tree.
+//
+//  uses a Priority Queue (Heap) to create an algorithm for
+//  determinig the min span tree for the give adj matrix.
 //
 //Editor:                          Emacs
 //*******************************************************
