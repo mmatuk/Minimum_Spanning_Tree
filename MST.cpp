@@ -1,7 +1,7 @@
 //*******************************************************
 //Author:                       Matt Matuk
 //Created:                      09/07/2017
-//Source File:                  Heap.h
+//Source File:                  HeapMin.h
 //Description:
 //  Main file for the Min Span Tree.
 //
